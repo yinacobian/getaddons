@@ -17,6 +17,7 @@ Example of which addons we want to get:
 6. Annotate big addons on PATRIC : https://www.patricbrc.org/
 7. From PATRIC, download the tab delimited annotations file : Achromobacter_CF116addons.tab
 8. Get phagelike table (bash addons-getphagetable.sh Achromobacter_CF116addons.tab UnAlignedContigsDetails.tab), the output is: megatable.tab 
+9. From PATRIC, download the excel annotations file : Achromobacter_CF116addons.xls
 
 done
 
